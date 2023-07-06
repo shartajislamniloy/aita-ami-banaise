@@ -1,0 +1,17 @@
+.az{
+     padding: 20px;
+     background-color: aquamarine;
+     width: 20%;
+}
+.az1{
+    background-color:yellow;
+}
+.az2{
+background-color: blueviolet;
+}
+.azz{
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
