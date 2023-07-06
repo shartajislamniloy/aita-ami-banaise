@@ -38,3 +38,20 @@
 a:hover {
     background-color: cyan;
 }
+.h{
+text-align: center;
+font-size: 70px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.f{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.h3{
+    padding-bottom: 20px;
+}
+.b{
+    background-color: bisque;
+}
