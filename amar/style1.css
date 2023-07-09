@@ -53,5 +53,20 @@ padding-bottom: 20px;
     padding-bottom: 20px;
 }
 .b{
-    background-color: bisque;
+   background-image: linear-gradient(rgb(48, 48, 148),rgb(22, 132, 191));
+   
+}
+.c{
+    display: flex;
+    justify-content: space-around;
+}
+.cx{
+    width:200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px 10px goldenrod;
+    border: 5px solid cadetblue;
+    padding: 15px;
+   
+    
+
 }
